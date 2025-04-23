@@ -1,1 +1,0 @@
-# device_xiaomi_ysl_camera_legacy-4.19
